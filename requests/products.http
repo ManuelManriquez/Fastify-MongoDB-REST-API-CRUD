@@ -1,0 +1,10 @@
+@api = http://localhost:3000/products
+
+PUT {{api}}/1
+## GET /products
+GET {{api}}
+
+## POST /products
+POST {{api}}
+
+## PUT /products
